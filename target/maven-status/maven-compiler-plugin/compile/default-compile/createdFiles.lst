@@ -1,0 +1,4 @@
+com/redhat/services/ui/PersonUI.class
+com/redhat/services/model/Person_.class
+com/redhat/services/service/PersonService.class
+com/redhat/services/model/Person.class
